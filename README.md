@@ -76,3 +76,8 @@ you please just include the Copyright and the [**LICENSE**](LICENSE).
 
 - [Pablo Trinidad](https://github.com/pablotrinidad)
   | CS Student at UNAM's Faculty of Science | <pablotrinidad@ciencias.unam.mx>
+
+La documentación y explicación del proceso de este producto se encuentra en:
+https://www.notion.so/3ca8af9e324b410284761a245d35dff7?v=954f6e32c7a143f185a3e0f69b4ac20c
+el curso es:
+https://platzi.com/clases/django-avanzado/
